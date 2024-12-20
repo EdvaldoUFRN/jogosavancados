@@ -1,1 +1,3 @@
 # jogosavancados
+
+Vai ser preciso ter blender instalado no pc...
